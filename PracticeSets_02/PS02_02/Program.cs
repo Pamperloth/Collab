@@ -10,9 +10,17 @@ namespace PS02_02
     {
         static void Main(string[] args)
         {
-            /*
-            * Write a program that prints all the odd numbers from 1 to 20 using a for loop. 
-            */
+            for (int i = 0; i <= 20; i++)
+            {
+                if (i % 2 > 0)
+                {
+                    Console.Write($"{i} ");
+                }
+                else
+                {
+                    continue;
+                }
+            }
         }
     }
 }
