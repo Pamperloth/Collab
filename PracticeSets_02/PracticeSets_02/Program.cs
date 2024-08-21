@@ -10,15 +10,8 @@ namespace PracticeSets_02
     {
         static void Main(string[] args)
         {
-            /*
-            Console.WriteLine("Even Numbers");
-            for (int i = 1; i < 20; i++)
-            {
-                if (i % 2 == 0)
-                {
-                    Console.WriteLine(i);
-                }
-            }
+
+            "ENTER EVEN CODE HERE"
         }
     }
 }
