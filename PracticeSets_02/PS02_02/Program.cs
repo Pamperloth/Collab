@@ -10,8 +10,17 @@ namespace PS02_02
     {
         static void Main(string[] args)
         {
-"ENTER OOD CODE HERE"
-           
+            for (int i = 0; i <= 20; i++)
+            {
+                if (i % 2 > 0)
+                {
+                    Console.WriteLine($"{i} ");
+                }
+                else
+                {
+                    continue;
+                }
+            }
         }
     }
 }
