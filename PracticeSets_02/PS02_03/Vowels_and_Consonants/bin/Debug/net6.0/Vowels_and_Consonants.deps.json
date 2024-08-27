@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vowels_and_Consonants/1.0.0": {
+        "runtime": {
+          "Vowels_and_Consonants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vowels_and_Consonants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
