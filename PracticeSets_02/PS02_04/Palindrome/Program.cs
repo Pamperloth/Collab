@@ -9,7 +9,7 @@ class Program
 
         for (int i = input.Length - 1; i >= 0; i--)
         {
-            revString += revString + input[i];
+            revString = revString + input[i];
         }
 
         if (revString == input)
