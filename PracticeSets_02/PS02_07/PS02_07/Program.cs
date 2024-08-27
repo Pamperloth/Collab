@@ -13,9 +13,9 @@ namespace PS02_07
             int sum = 0;
 
             Console.Write("Enter how many numbers do you want to add together: ");
-            int n = Convert.ToInt32(Console.ReadLine());
+            int input = Convert.ToInt32(Console.ReadLine());
 
-            int[] Array = new int[n];
+            int[] Array = new int[input];
 
             Console.WriteLine("Enter numbers to fill Array: ");
             for (int i = 0; i < n; i++)
