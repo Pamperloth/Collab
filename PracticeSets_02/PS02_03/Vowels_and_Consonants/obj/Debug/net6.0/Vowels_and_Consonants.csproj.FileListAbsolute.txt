@@ -1,0 +1,15 @@
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\bin\Debug\net6.0\Vowels_and_Consonants.exe
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\bin\Debug\net6.0\Vowels_and_Consonants.deps.json
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\bin\Debug\net6.0\Vowels_and_Consonants.runtimeconfig.json
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\bin\Debug\net6.0\Vowels_and_Consonants.dll
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\bin\Debug\net6.0\Vowels_and_Consonants.pdb
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.csproj.AssemblyReference.cache
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.AssemblyInfoInputs.cache
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.AssemblyInfo.cs
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.csproj.CoreCompileInputs.cache
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.dll
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\refint\Vowels_and_Consonants.dll
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.pdb
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\Vowels_and_Consonants.genruntimeconfig.cache
+C:\Users\April\Desktop\PracticeSets_02\PS02_03\Vowels_and_Consonants\obj\Debug\net6.0\ref\Vowels_and_Consonants.dll
